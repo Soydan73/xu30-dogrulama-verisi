@@ -21,8 +21,11 @@ her bilgisayarda aynı dosyalar vardır.
 1. **Google Drive (masaüstü)**: https://www.google.com/drive/download/ → kur, lazercim@gmail.com ile giriş yap.
    Drive'daki Veriseti klasörü (tick dosyalarının olduğu klasör) bilgisayarda bir sürücü olarak görünür
    (ör. `G:\Drive'ım\...`). Klasöre sağ tık → "Çevrimdışı kullanılabilir" seç (dosyalar hep yerelde dursun).
-2. **Python 3**: https://www.python.org/downloads/ → kurulumun ilk ekranında **"Add python.exe to PATH"**
-   kutusunu işaretle. (pandas'ı ilk çalıştırmada akış kendisi kurar.)
+2. **Python 3**: önce kurulu mu bak — Komut İstemi'nde `py --version` yaz; `Python 3.x` görürsen bu adımı atla.
+   Yoksa https://www.python.org/downloads/ → yeni sürümlerde gelen **"Python install manager"** `py` komutunu
+   kendisi kurar, PATH kutusu sorulmaz (sorun değil). Eski tip kurulum ekranı çıkarsa "Add python.exe to PATH"
+   kutusunu işaretle. Sonra yeni bir Komut İstemi açıp `py --version` ile kontrol et.
+   (pandas'ı ilk çalıştırmada akış kendisi kurar.)
 3. **Git for Windows**: https://git-scm.com/download/win → varsayılan ayarlarla kur.
 4. **İlk çalıştırma**: Veriseti klasöründe `verisetini_guncelle.bat`'a çift tıkla. İlk seferde GitHub
    giriş penceresi açılır → **Soydan73** hesabıyla giriş yap (SoydanAkdeniz değil). Bir daha sorulmaz.
