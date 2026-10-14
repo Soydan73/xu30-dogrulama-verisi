@@ -16,3 +16,8 @@
 | 09.09–11.09.2026 | Tampon | kullanılmaz |
 | 14.09–09.10.2026 | **Kilit** (20 seans) | dokunulmadı |
 | 10.10.2026 → | **İleri test** | dokunulmadı |
+
+## 2026-10-14 14:20 — XU30-2026-10-13-8acff644
+- 2026-05-05 → 2026-10-13, 111 gün · M1 77426 · M15 5485 · H1 1534 · D1 111
+- Yeni günler: yok · önceki kimlik: XU30-2026-10-13-69afcaff
+- SHA-256 künyeyle eşleşti · betik v2.01 · veri_akisi v1.01 · bilgisayar SOYDAN

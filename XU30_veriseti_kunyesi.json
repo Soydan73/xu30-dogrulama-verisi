@@ -1,7 +1,7 @@
 {
   "betik_surumu": "2.01",
-  "olusturma": "2026-10-14T10:06:07",
-  "kaynak_klasor": "/sessions/rcw-01tadgmzv6hbao2rwwdhdgyt/mnt/Otomatik Robot/Veriseti",
+  "olusturma": "2026-10-14T14:20:41",
+  "kaynak_klasor": "G:\\Drive'ım\\Veriseti",
   "kaynak_dosya_sayisi": 111,
   "son_kaynak_dosya": "XU30_YAKINVADE_202610130930_202610132259.csv",
   "ilk_gun": "2026-05-05",
@@ -34,11 +34,11 @@
   },
   "sorunlu_dosyalar": [],
   "sha256": {
-    "XU30_M1_birlesik.csv": "69afcaff38ebf5c005f0ccd7061d5221e6ecfe76992aec666c56291861699575",
-    "XU30_M15.csv": "9850f45ace6fc0c74666cf8922cc62c1153392637ba67fe32e831b462d24bf33",
-    "XU30_H1.csv": "6fbfd238047494dbefad543e8efcdf9fa0149f63cb8b645836e460dad98d0595",
-    "XU30_D1.csv": "674da70e886eea6c0e7e441ad7c081c3eaedee4225d0d96986c7dfaf94e796d5"
+    "XU30_M1_birlesik.csv": "8acff644e0d82b8905bb49ff55f7c6ed2ca0a35bf29efa874da9eeaebc1eb1da",
+    "XU30_M15.csv": "e159a9200717b58683cfb9297fce7606aa54a023dbed0c361d688d90802dd77c",
+    "XU30_H1.csv": "f6e9f7a76bd3d4b9ea7ec4ccc876107029d4b2aef94eb65991af695a195a8fa0",
+    "XU30_D1.csv": "dfef23b2570f475bd6ecd4b52e1043d7139edfd0c8ff6fd2ead050a48d14e35f"
   },
   "durum": "TEMIZ",
-  "veriseti_kimligi": "XU30-2026-10-13-69afcaff"
+  "veriseti_kimligi": "XU30-2026-10-13-8acff644"
 }
