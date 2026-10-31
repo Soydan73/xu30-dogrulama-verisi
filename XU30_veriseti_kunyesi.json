@@ -1,17 +1,17 @@
 {
   "betik_surumu": "2.01",
-  "olusturma": "2026-10-23T18:20:58",
+  "olusturma": "2026-10-31T10:10:28",
   "kaynak_klasor": "G:\\Drive'ım\\Veriseti",
-  "kaynak_dosya_sayisi": 118,
-  "son_kaynak_dosya": "XU30_YAKINVADE_202610220930_202610222259.csv",
+  "kaynak_dosya_sayisi": 123,
+  "son_kaynak_dosya": "XU30_YAKINVADE_202610300930_202610302112.csv",
   "ilk_gun": "2026-05-05",
-  "son_gun": "2026-10-22",
-  "gun_sayisi": 118,
+  "son_gun": "2026-10-30",
+  "gun_sayisi": 123,
   "satir": {
-    "M1": 82583,
-    "M15": 5842,
-    "H1": 1632,
-    "D1": 118
+    "M1": 85457,
+    "M15": 6043,
+    "H1": 1688,
+    "D1": 123
   },
   "devir_suphesi_gunleri": [
     "2026-05-22",
@@ -27,23 +27,24 @@
   },
   "gerileme": {
     "onceki_surum": true,
-    "onceki_gun_sayisi": 114,
+    "onceki_gun_sayisi": 118,
     "kaybolan_gunler": [],
     "degisen_gunler": [],
     "yeni_gunler": [
-      "2026-10-19",
-      "2026-10-20",
-      "2026-10-21",
-      "2026-10-22"
+      "2026-10-23",
+      "2026-10-26",
+      "2026-10-27",
+      "2026-10-28",
+      "2026-10-30"
     ]
   },
   "sorunlu_dosyalar": [],
   "sha256": {
-    "XU30_M1_birlesik.csv": "a4f968155843043e80a4ce19a5a1c18676926f583ad70bd87a5910ec3dc4c778",
-    "XU30_M15.csv": "af006494ced61a3ed01f08cdd0e1a442c08849aa9453740c448a375b39e595fd",
-    "XU30_H1.csv": "6d4a740329bfb10e38260ff85db73463343be6cecaca90c06b20a56d7e6d0aaa",
-    "XU30_D1.csv": "2d0a8a07e285836b338f8ecf105bf25c6278afbe00ee77d323fa91c49d29f2b6"
+    "XU30_M1_birlesik.csv": "363f3f4eff5d056623a96c7147a1714cd23db1075a9391c59441b1143e952534",
+    "XU30_M15.csv": "1b8d89c937c940d7981b1ae931da2afc61b4614e2e2f8be1677d9cd6339b5793",
+    "XU30_H1.csv": "b4276b2fe6ae4fb45f1b470b26f4480faf4eaad9273bdbd43b16dfe4d3096c23",
+    "XU30_D1.csv": "ee2dba6a6c0c07c9211113daa316522e33b06e793b1584492b719562c6da2fc6"
   },
   "durum": "TEMIZ",
-  "veriseti_kimligi": "XU30-2026-10-22-a4f96815"
+  "veriseti_kimligi": "XU30-2026-10-30-363f3f4e"
 }
