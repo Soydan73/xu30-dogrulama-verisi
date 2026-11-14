@@ -56,3 +56,8 @@
 - 2026-05-05 → 2026-11-10, 130 gün · M1 90703 · M15 6400 · H1 1786 · D1 130
 - Yeni günler: 2026-11-09, 2026-11-10 · önceki kimlik: XU30-2026-11-06-5f61fcfb
 - SHA-256 künyeyle eşleşti · betik v2.01 · veri_akisi v1.01 · bilgisayar SOYDAN
+
+## 2026-11-14 09:31 — XU30-2026-11-13-c2126454
+- 2026-05-05 → 2026-11-13, 133 gün · M1 92948 · M15 6553 · H1 1828 · D1 133
+- Yeni günler: 2026-11-11, 2026-11-12, 2026-11-13 · önceki kimlik: XU30-2026-11-10-74115744
+- SHA-256 künyeyle eşleşti · betik v2.01 · veri_akisi v1.01 · bilgisayar SOYDAN
